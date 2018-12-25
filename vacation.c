@@ -6,8 +6,7 @@
 */
 
 #include <stdio.h>
-#include "io.h"
-#include "io.c"
+#include <stdlib.h>
 
 /* Returns a list of the days between each work day.
 
